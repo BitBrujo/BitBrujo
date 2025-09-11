@@ -24,9 +24,9 @@ My current hobby project is ... coming soon
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
 </div>
 
 ---
