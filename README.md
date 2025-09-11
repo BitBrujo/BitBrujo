@@ -34,7 +34,7 @@ My current hobby project is ... coming soon
 ## Infrastructure tools I use ->
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux, bash, apple, github, docker, supabase, aws, gcp" alt="Infrastructure Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,apple,github,docker,supabase,aws,gcp" alt="Infrastructure Tools" />
 </div>
 
 ---
