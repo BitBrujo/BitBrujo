@@ -12,6 +12,7 @@ My current hobby project is ... coming soon
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
   <img src="https://skillicons.dev/icons?i=webflow" alt="Webflow" />
   <img src="https://skillicons.dev/icons?i=ae" alt="After Effects" />
+  <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
 </div>
 
 ---
@@ -34,7 +35,7 @@ My current hobby project is ... coming soon
 ## Infrastructure tools I use ->
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,apple,github,docker,supabase,aws,gcp" alt="Infrastructure Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,ubuntu,apple,github,docker,supabase,aws,gcp" alt="Infrastructure Tools" />
 </div>
 
 ---
