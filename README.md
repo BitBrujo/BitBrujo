@@ -36,6 +36,7 @@ My current hobby project is ... this triad -> [GOOSE](https://github.com/block/g
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ubuntu,apple,linux,bash,git,github,docker,cloudflare,supabase,aws,gcp" alt="Infrastructure Tools" />
   <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/databricks-auto.svg" alt="Databricks" height="48" width="48" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/ollama.svg" alt="Ollama" height="48" width="48" />
 </div>
 
 ---
