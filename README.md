@@ -35,7 +35,6 @@ My current hobby project is ... this triad -> [GOOSE](https://github.com/block/g
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ubuntu,apple,linux,bash,github,docker,cloudflare,supabase,aws,gcp" alt="Infrastructure Tools" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" height="48" />
 </div>
 
 ---
