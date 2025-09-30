@@ -2,7 +2,7 @@
 
 I'm Joaquin, currently working as a design engineer.
 
-My current hobby project is ... this triad -> [GOOSE](https://github.com/block/goose) / [MCP](https://github.com/modelcontextprotocol/servers) / [MCP-UI](https://github.com/idosal/mcp-ui)
+My current hobby project is ... [MCP](https://github.com/modelcontextprotocol/servers) / [MCP-UI](https://github.com/idosal/mcp-ui)
 
 ---
 
