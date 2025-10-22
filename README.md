@@ -2,7 +2,7 @@
 
 I'm Joaquin, currently working as a design engineer.
 
-My current hobby project is ... [MCP](https://github.com/modelcontextprotocol/servers) + [MCP-UI](https://github.com/idosal/mcp-ui) = [LoopCraft](https://github.com/BitBrujo/loopcraft)
+My current project is ... [MCP](https://github.com/modelcontextprotocol/servers) + [MCP-UI](https://github.com/idosal/mcp-ui) = [LoopCraft](https://github.com/BitBrujo/loopcraft)
 
 ---
 
