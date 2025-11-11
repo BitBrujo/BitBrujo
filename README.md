@@ -3,6 +3,7 @@
 I'm Joaquin, currently working as a design engineer.
 
 My current project is -> [MCP](https://github.com/modelcontextprotocol/servers) + [MCP-UI](https://github.com/idosal/mcp-ui) = [LoopCraft](https://github.com/BitBrujo/loopcraft)
+
 Other projects -> [Gunny](https://github.com/BitBrujo/gunny) A comprehensive application for creating complete CrewAI agent orchestration projects.
 
 ---
