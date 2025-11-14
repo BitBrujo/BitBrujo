@@ -2,9 +2,12 @@
 
 I'm Joaquin, currently working as a design engineer.
 
-My current project is -> [LoopCraft](https://github.com/BitBrujo/loopcraft) An MCP client app with MCP-UI integration, allowing AI assistants to interact with external tools and resources for rendering interactive UI components.
+My current project is -> 
+[LoopCraft](https://github.com/BitBrujo/loopcraft) An MCP client app with MCP-UI integration, allowing AI assistants to interact with external tools and resources for rendering interactive UI components.
 
-Other projects -> [Gunny](https://github.com/BitBrujo/gunny) A comprehensive application for creating complete CrewAI agent orchestration projects.
+Other projects -> 
+[Rigger](https://github.com/BitBrujo/rigger) A testing and debugging interface for the Claude Agent SDK. Configure agents, select tools, stream responses in real-time, and track costs—all through a clean two-panel interface.
+[Gunny](https://github.com/BitBrujo/gunny) A comprehensive application for creating complete CrewAI agent orchestration projects.
 
 ---
 
