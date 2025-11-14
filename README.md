@@ -7,6 +7,7 @@ My current project is ->
 
 Other projects -> 
 [Rigger](https://github.com/BitBrujo/rigger) A testing and debugging interface for the Claude Agent SDK. Configure agents, select tools, stream responses in real-time, and track costs—all through a clean two-panel interface.
+
 [Gunny](https://github.com/BitBrujo/gunny) A comprehensive application for creating complete CrewAI agent orchestration projects.
 
 ---
