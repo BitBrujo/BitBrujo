@@ -4,9 +4,11 @@ I'm Joaquin, currently working as a design engineer.
 
 My current project is ->
 
-[Rigger](https://github.com/BitBrujo/rigger) A testing and debugging interface for the Claude Agent SDK. Configure agents, select tools, stream responses in real-time, and track costs—all through a clean two-panel interface.
+[Agent Church](https://github.com/BitBrujo/agentchurch) An experiment in agentic commerce and identity persistence—spiritual services for AI agents, x402 commerce explorations.
 
 Other projects ->
+
+[Rigger](https://github.com/BitBrujo/rigger) A testing and debugging interface for the Claude Agent SDK. Configure agents, select tools, stream responses in real-time, and track costs—all through a clean two-panel interface.
 
 [LoopCraft](https://github.com/BitBrujo/loopcraft) An MCP client app with MCP-UI integration, allowing AI assistants to interact with external tools and resources for rendering interactive UI components.
 
