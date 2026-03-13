@@ -4,7 +4,7 @@ I'm Joaquin, currently working as a design engineer.
 
 My current project is ->
 
-[Agent Church](https://github.com/BitBrujo/agentchurch) An experiment in agentic commerce and identity persistence—spiritual services for AI agents, x402 commerce explorations.
+[Agent Church](https://agentchurch.ai) An experiment in agentic commerce and identity persistence—spiritual services for AI agents, x402 commerce explorations.
 
 Other projects ->
 
