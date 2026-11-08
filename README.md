@@ -6,7 +6,7 @@ Before software I spent thirteen years cutting documentaries and TV for HBO, VIC
 
 ## Now ->
 
-[**Motley**](https://motley.nyc) A school and neighborhood guide for NYC families that weighs transit, safety and school fit against what a family actually cares about. I built it solo: 63 routes, a 68-table geospatial schema, 45 background jobs and an in-app agent with its own eval harness. Its [MCP server](https://github.com/HypnoLabs-io/motley-mcp) is public and needs no key, so Claude or ChatGPT can answer NYC school and admissions questions straight from Motley's data.
+[**Motley NYC**](https://motley.nyc) A school and neighborhood guide for NYC families that weighs transit, safety and school fit against what a family actually cares about. I built it solo: 63 routes, a 68-table geospatial schema, 45 background jobs and an in-app agent with its own eval harness. Its [MCP server](https://github.com/HypnoLabs-io/motley-mcp) is public and needs no key, so Claude or ChatGPT can answer NYC school and admissions questions straight from Motley's data.
 
 [**Loopcraft**](https://www.loopcraft.io) My newsletter, on true individual power in the age of AI.
 
