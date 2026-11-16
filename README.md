@@ -1,6 +1,6 @@
 # Hey, Hey
 
-I'm Joaquin, a design engineer and creative product technologist in NYC. I build custom products and solutions where design and engineering overlap, from the first coded prototype to production. I also run [Hypno Labs](https://hypnolabs.io), a studio working at the edge of the agentic web.
+I'm Joaquin, an AI product engineer and creative technologist in NYC. I build custom products and solutions where design and engineering overlap, from the first coded prototype to production. I also run [Hypno Labs](https://hypnolabs.io), a studio working at the edge of the agentic web.
 
 Before software, I crafted documentaries and television for HBO, VICE, PBS, NBC and A&E: 100+ projects reaching audiences of 1M+.
 
